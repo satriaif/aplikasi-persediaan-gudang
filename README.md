@@ -27,6 +27,13 @@ Pimpinan/Supervision (only read)
 - MySQL
 - Bootstrap
 
+## Screenshots
+
+![Login](screenshots/login.png)
+
+
+
+
 ## Author
 
 Satria Imam Faqih
