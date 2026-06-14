@@ -32,8 +32,20 @@ Pimpinan/Supervision (only read)
 - Login Page
 ![Login](screenshots/login.png)
 
+- Dashboard Page
+![Dashboard](screenshots/dashboard.png)
 
+- List Of Items Page
+![list-of-items](screenshots/list-of-items.png)
 
+- Incomings Items Page
+![incomings-items](screenshots/incomings-items.png)
+
+- Outgoing Items Page
+![outgoing-items](screenshots/outgoing-items.png)
+
+- Report Page
+![report-page](screenshots/report-page.png)
 
 ## Author
 
