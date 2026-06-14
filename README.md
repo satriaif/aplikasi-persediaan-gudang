@@ -2,6 +2,15 @@
 
 A web-based inventory management application developed using Laravel and MySQL.
 
+## User Role
+Admin (Managing Data)
+admin
+admin123
+
+Pimpinan/Supervision (only read)
+agus
+agus123
+
 ## Features
 
 - User Authentication
