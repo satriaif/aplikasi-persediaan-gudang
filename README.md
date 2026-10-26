@@ -8,7 +8,7 @@ Aplikasi manajemen persediaan gudang berbasis web yang dibangun menggunakan Lara
 
 | Layer | Teknologi |
 |---|---|
-| Backend Framework | Laravel 12 |
+| Backend Framework | Laravel  |
 | Frontend | Blade + Tailwind CSS v4 |
 | Build Tool | Vite |
 | Database | SQLite (default) / MySQL |
